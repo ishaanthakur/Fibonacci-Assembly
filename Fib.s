@@ -14,7 +14,7 @@ eight     EQU 0x00000100 ; 1 << 8
 twentytwo EQU 0x00400000 ; 1 << 22
 
 __main
-	; Your code goes here!
+	
 		MOV   R3, #9
 		MOV   R7, #19
 		MOV   R1, #0xbeef
