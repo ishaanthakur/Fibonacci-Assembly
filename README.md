@@ -1,3 +1,3 @@
 # Fibonacci-Assembly
 
-Assembly code for displaying LED light corresponding to the corresponding fibonacci number on a micro-controller.
+Assembly code for displaying LED light corresponding to the respective fibonacci number on a micro-controller.
